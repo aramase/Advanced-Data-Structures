@@ -1,0 +1,2 @@
+# Advanced-Data-Structures-CSC-541
+Complex and specialized data structures relevant to design and development of effective and efficient software. Hardware characteristics of storage media. Primary file organizations. Hashing functions and collision resolution techniques. Low level and bit level structures including signatures, superimposed coding, disjoint coding and Bloom filters. Tree and related structures including AVL trees, B*trees, tries and dynamic hashing techniques.
